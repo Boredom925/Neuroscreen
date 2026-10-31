@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.wav
+phase6_models/
+*.joblib
